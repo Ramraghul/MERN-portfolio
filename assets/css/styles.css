@@ -391,7 +391,7 @@ img {
   border-radius: 0.5rem;
   overflow: hidden;
   box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
-  height: 18rem;
+  height: 26rem;
 }
 
 .work_img img {
@@ -408,13 +408,19 @@ img {
   width: 100%;
 }
 
+.proHead{
+margin-top: 1rem;
+}
+
 .project{
   display: flex;
   justify-content: space-evenly;
-  margin-top: 18px;
+  margin-top: 18px;  
 }
+
 .color{
   color: black;
+  
 }
 .Code, .Live{
   height: 2rem;
